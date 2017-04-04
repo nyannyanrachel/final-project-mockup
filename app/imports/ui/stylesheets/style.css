@@ -1,7 +1,6 @@
 body {
   padding-top: 61px;  /* Move body of page below navbar. */
-  background: url('images/ninokunibg.png');
-  background-size: cover;
+  background: url('images/woodtilebg.jpg');
   margin: 0;
 }
 

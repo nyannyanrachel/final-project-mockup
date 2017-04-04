@@ -1,3 +1,34 @@
 body {
   padding-top: 61px;  /* Move body of page below navbar. */
+  background: url('images/ninokunibg.png');
+  background-size: cover;
+  margin: 0;
+}
+
+
+.ui.inverted.menu{
+  background-color: #6FB138;
+}
+
+.form-holder {
+  background: rgba(255,255,255,0.2);
+  margin-top: 10%;
+  border-radius: 3px;
+  margin-bottom: 10%;
+}
+
+.form-head {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 0 30px #000;
+  margin: 15px auto 30px auto;
+}
+
+.remember-me {
+  text-align: left;
+}
+.ui.checkbox label {
+  color: #ddd;
 }

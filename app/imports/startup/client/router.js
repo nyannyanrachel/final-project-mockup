@@ -29,6 +29,20 @@ FlowRouter.route('/add', {
   },
 });
 
+FlowRouter.route('/approve-quest', {
+  name: 'Approve_Quest_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Approve_Quest_Page' });
+  },
+});
+
+FlowRouter.route('/create-quest', {
+  name: 'Create_A_Quest_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Create_A_Quest_Page' });
+  },
+});
+
 FlowRouter.route('/add-quest', {
   name: 'Add_Quest_Page',
   action() {

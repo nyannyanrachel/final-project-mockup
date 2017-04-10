@@ -1,8 +1,14 @@
 import './add-stuff-page.html';
 import './add-stuff-page.js';
 
+import './approve-quest-page.html';
+import './approve-quest-page.js';
+
 import './add-quest-page.html';
 import './add-quest-page.js';
+
+import './create-a-quest-page.html';
+import './create-a-quest-page.js';
 
 import './edit-stuff-page.html';
 import './edit-stuff-page.js';

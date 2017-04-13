@@ -14,3 +14,6 @@ import './landing-page.js';
 
 import './student-home-page.html';
 import './student-home-page.js';
+
+import './teacher-page.html';
+import './teacher-page.js';

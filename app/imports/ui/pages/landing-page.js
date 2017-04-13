@@ -10,6 +10,5 @@ Template.Landing_Page.events({
   'click .sign-in-button': function(event) {
     event.preventDefault();
     FlowRouter.go('Student_Home_Page');
-  }
-
+  },
 });
